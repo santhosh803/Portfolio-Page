@@ -1,1 +1,1 @@
-# Portfolio page build using Javascript, HTML & CSS
+# Build a Portfolio Page Using Javascript, HTML & CSS
